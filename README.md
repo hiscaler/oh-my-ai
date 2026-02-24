@@ -10,6 +10,7 @@
     "instructions": [
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/git.md",
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/guidelines.md",
+        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/php/AGENTS.md",
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/php/specification.md",
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/php/swagger.md"
     ]
@@ -24,6 +25,7 @@
     "instructions": [
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/git.md",
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/guidelines.md",
+        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/go/AGENTS.md",
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/go/specification.md"
     ]
 }
@@ -37,6 +39,7 @@
     "instructions": [
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/git.md",
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/guidelines.md",
+        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/typescript/AGENTS.md",
         "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/typescript/specification.md"
     ]
 }
