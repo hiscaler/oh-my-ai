@@ -1,8 +1,10 @@
-# AI Rules
+# Oh My AI
 
 ## OpenCode
 
-### PHP
+### Rules
+
+#### PHP
 
 ```json
 {
@@ -17,7 +19,7 @@
 }
 ```
 
-### Golang
+#### Golang
 
 ```json
 {
@@ -31,7 +33,7 @@
 }
 ```
 
-### TypeScript
+#### TypeScript
 
 ```json
 {
