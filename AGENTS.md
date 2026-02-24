@@ -1,7 +1,7 @@
 # PROJECT KNOWLEDGE BASE
 
 **Generated:** 2026-02-24
-**Commit:** dc2083c
+**Commit:** 8a7343f
 **Branch:** main
 
 ## OVERVIEW
@@ -12,24 +12,24 @@ Documentation-only repo containing AI coding rules for OpenCode. No executable c
 
 ```
 ./
-├── README.md      # OpenCode config (JSON)
-├── guidelines.md  # Core execution protocol
-├── git.md         # Git workflow rules
-├── go/            # Golang spec
-├── php/           # PHP spec + Swagger
-└── typescript/    # TypeScript spec
+├── README.md            # OpenCode config (JSON)
+├── rules/guidelines.md  # Core execution protocol
+├── rules/git.md         # Git workflow rules
+├── rules/go/            # Golang spec
+├── rules/php/           # PHP spec + Swagger
+└── rules/typescript/    # TypeScript spec
 ```
 
 ## WHERE TO LOOK
 
 | Task | Location | Notes |
 |------|----------|-------|
-| PHP rules | php/specification.md | Strong typing, exceptions |
-| PHP Swagger | php/swagger.md | Schema generation |
-| Go rules | go/specification.md | Comments, error handling |
-| TS rules | typescript/specification.md | Typing verification |
-| Git workflow | git.md | Commit format, commands |
-| Core protocol | guidelines.md | Communication language (CN) |
+| PHP rules | rules/php/specification.md | Strong typing, exceptions |
+| PHP Swagger | rules/php/swagger.md | Schema generation |
+| Go rules | rules/go/specification.md | Comments, error handling |
+| TS rules | rules/typescript/specification.md | Typing verification |
+| Git workflow | rules/git.md | Commit format, commands |
+| Core protocol | rules/guidelines.md | Communication language (CN) |
 
 ## ANTI-PATTERNS (THIS PROJECT)
 

@@ -8,11 +8,11 @@
 {
     "$schema": "https://opencode.ai/config.json",
     "instructions": [
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/git.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/guidelines.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/php/AGENTS.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/php/specification.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/php/swagger.md"
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/git.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/guidelines.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/php/AGENTS.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/php/specification.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/php/swagger.md"
     ]
 }
 ```
@@ -23,10 +23,10 @@
 {
     "$schema": "https://opencode.ai/config.json",
     "instructions": [
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/git.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/guidelines.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/go/AGENTS.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/go/specification.md"
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/git.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/guidelines.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/go/AGENTS.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/go/specification.md"
     ]
 }
 ```
@@ -37,10 +37,10 @@
 {
     "$schema": "https://opencode.ai/config.json",
     "instructions": [
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/git.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/guidelines.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/typescript/AGENTS.md",
-        "https://raw.githubusercontent.com/hiscaler/ai-rules/refs/heads/main/typescript/specification.md"
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/git.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/guidelines.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/typescript/AGENTS.md",
+        "https://raw.githubusercontent.com/hiscaler/on-my-ai/refs/heads/main/rules/typescript/specification.md"
     ]
 }
 ```
