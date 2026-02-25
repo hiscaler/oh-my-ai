@@ -46,4 +46,6 @@
     ]
 }
 ```
+### Skills
 
+- git-release-notes 根据 Git commit 提交历史自动撰写结构化、专业化的发布日志（Release Notes）
