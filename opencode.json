@@ -1,0 +1,17 @@
+{
+    "agent": {
+        "build": {
+            "pre_prompt": "始终参考 instructions 中的相关规范",
+            "options": {
+                "pre_prompt": "始终参考 instructions 中的相关规范"
+            },
+            "permission": {}
+        }
+    },
+    "instructions": [
+        "AGENTS.md",
+        "https://raw.githubusercontent.com/hiscaler/oh-my-ai/refs/heads/main/rules/git.md",
+        "https://raw.githubusercontent.com/hiscaler/oh-my-ai/refs/heads/main/rules/guidelines.md"
+    ],
+    "$schema": "https://opencode.ai/config.json"
+}
