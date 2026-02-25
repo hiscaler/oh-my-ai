@@ -46,6 +46,11 @@
     ]
 }
 ```
+
 ### Skills
 
 - git-release-notes 根据 Git commit 提交历史自动撰写结构化、专业化的发布日志（Release Notes）
+
+### Commands
+
+复制 `commands` 文件夹到项目的 `.opencode` 文件夹中并重启 UI
