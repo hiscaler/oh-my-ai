@@ -3,6 +3,8 @@ description: 撰写 Git 提交消息
 agent: build
 ---
 
+ulw 根据以下规则来撰写 Git 提交消息
+
 ## 消息格式
 
 提交格式为 `Sign: Message`，提交内容过长的情况下采用结构化书写（单行摘要+空行+详细描述）
